@@ -37,3 +37,5 @@
 ដោយសារ Project នេះប្រើប្រាស់បច្ចេកវិទ្យា Web អ្នកគ្រាន់តែបើក File `index.html` ជាមួយ Browser (Chrome, Edge, Firefox) ជាការស្រេច។
 
 > **ចំណាំ:** បទបង្ហាញនេះត្រូវបានរចនាឡើងយ៉ាងពិសេសសម្រាប់បង្ហាញលើ Laptop (16:9 Aspect Ratio)។
+
+LINK [RUNCODE](https://kane-kiraa.github.io/arduino-presentation/)
