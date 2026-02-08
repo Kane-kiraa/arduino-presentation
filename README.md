@@ -1,40 +1,36 @@
-🚀 Smart Devices & Arduino Presentation (RUPP)
+# 🚀 Smart Devices & Arduino Presentation (RUPP)
 
-បទបង្ហាញអំពីបច្ចេកវិទ្យាឧបករណ៍ឆ្លាតវៃ និងការសរសេរកម្មវិធី Arduino សម្រាប់និស្សិតឆ្នាំទី ២ ព័ត៌មានវិទ្យា (IT Engineering) នៃសាកលវិទ្យាល័យភូមិន្ទភ្នំពេញ។
+បទបង្ហាញអំពីបច្ចេកវិទ្យាឧបករណ៍ឆ្លាតវៃ និងការសរសេរកម្មវិធី Arduino សម្រាប់និស្សិតឆ្នាំទី ២ ព័ត៌មានវិទ្យា (IT Engineering)។
 
-👥 សមាជិកក្រុម (Team Members)
+---
 
-ចាន់រ៉ា សុធារិទ្ធិ - Team Leader / Hardware Design
+## 👥 សមាជិកក្រុម (Team Members)
 
-ហុក យិជា - Hardware Engineering
+1. **ចាន់រ៉ា សុធារិទ្ធិ** - Hardware / Design
+2. **ហុក យិជា** - Engineering
+3. **គៀប សុឃុន** - Logic & Code
+4. **ចន្ថា ខេមរា** - Web Developer (HTML/CSS/JS) & Research 💻
+5. **កៅ នី** - Documentation
+6. **ជឿន សុជាតិ** - Support
+7. **ខែម វិច្ឆិកា** - Support
 
-គៀប សុឃុន - Arduino Logic & C++ Coding
+## 👨‍🏫 ដឹកនាំដោយ
 
-ចន្ថា ខេមរា - Web Developer (HTML/CSS/JS) & Research 💻
+- **សាស្ត្រាចារ្យ អ៊ុក ប៉ូលីវណ្ណ**
 
-កៅ នី - Documentation
+---
 
-ជឿន សុជាតិ - Support Team
+## 🛠️ បច្ចេកវិទ្យាដែលប្រើ (Tech Stack)
 
-ខែម វិច្ឆិកា - Support Team
+- **Frontend:** HTML5, Tailwind CSS, JavaScript
+- **Hardware Context:** Arduino Framework, C++
+- **Version Control:** Git & GitHub
 
-👨‍🏫 ដឹកនាំដោយ
+## 🚀 របៀបបើកមើល (How to Run)
 
-សាស្ត្រាចារ្យ អ៊ុក ប៉ូលីវណ្ណ
+១. Clone project: `git clone https://github.com/Kane-kiraa/arduino-presentation.git`
+២. បើក File `index.html` ជាមួយ Web Browser។
 
-🛠️ បច្ចេកវិទ្យាដែលប្រើ (Tech Stack)
-
-Frontend (Presentation UI): HTML5, Tailwind CSS, JavaScript
-
-Developed by: Chantha Khemara
-
-Hardware Logic: Arduino IDE, C++
-
-Version Control: Git & GitHub
-
-🚀 របៀបបើកមើល (How to Run)
-
-១. Clone project: git clone https://github.com/Kane-kiraa/arduino-presentation.git
-២. បើក File index.html ជាមួយ Web Browser (Chrome, Edge, Safari)។
+---
 
 © 2026 - RUPP Robotics Team
