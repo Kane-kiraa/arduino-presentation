@@ -30,6 +30,7 @@
 
 ១. Clone project: `git clone https://github.com/Kane-kiraa/arduino-presentation.git`
 ២. បើក File `index.html` ជាមួយ Web Browser។
+៣. ឬក៏ [click_me](https://kane-kiraa.github.io/arduino-presentation/)
 
 ---
 
