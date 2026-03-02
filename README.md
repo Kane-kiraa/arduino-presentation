@@ -6,7 +6,7 @@
 
 ## 👥 សមាជិកក្រុម (Team Members)
 
-1. **ចាន់រ៉ា សុធារិទ្ធិ** - Hardware / Design
+1. **ចាន់រ៉ា សុធារិទ្ធិ** - Hardware 
 2. **ហុក យិជា** - Engineering
 3. **គៀប សុឃុន** - Logic & Code
 4. **ចន្ថា ខេមរា** - Web Developer (HTML/CSS/JS) & Research 💻
